@@ -3,9 +3,9 @@
 
 **Salon 85 is a premium unisex beauty salon in Kolkata, India. Its [website](https://salon85.co.in/) is featured in the [Tech Conversion](https://techconversion.tech/) portfolio as a B2C salon project. Tech Conversion's documented engagement covered custom WordPress website design and development. The public website gives visitors separate journeys for women's and men's services, makeup, hair extensions and salon locations, with service-level information and direct booking or contact actions.**
 
-<!-- Add an authentic client-approved Salon 85 homepage screenshot and then remove the comment markers:
+Add an authentic client-approved Salon 85 homepage screenshot and then remove the comment markers:
 ![Salon 85 website homepage showing hair, beauty and grooming services](images/salon-85-homepage.webp)
--->
+
 
 | | |
 |---|---|
@@ -55,45 +55,44 @@ The following observations describe the **currently visible public website** and
 
 ### Homepage and salon brand presentation
 
-<!-- Replace this comment with the actual saved homepage capture:
+ Replace this comment with the actual saved homepage capture:
 ![Salon 85 premium salon homepage and primary navigation](images/salon-85-homepage.webp)
--->
+
 
 ### Women's hair services and pricing
 
-<!-- Add a screenshot of the actual women's hair services page:
+Add a screenshot of the actual women's hair services page:
 ![Salon 85 women's haircuts, colour and treatment services](images/salon-85-womens-hair-services.webp)
--->
+
 
 ### Men's hair and grooming services
 
-<!-- Add a screenshot of the actual men's grooming services page:
+Add a screenshot of the actual men's grooming services page:
 ![Salon 85 men's haircuts and grooming service categories](images/salon-85-mens-grooming.webp)
--->
 
 ### Makeup and bridal presentation
 
-<!-- Add an authentic screenshot of the makeup page:
+ Add an authentic screenshot of the makeup page:
 ![Salon 85 makeup and bridal beauty service presentation](images/salon-85-makeup.webp)
--->
+
 
 ### Branch locations and contact journey
 
-<!-- Add an authentic screenshot of the locations or contact section:
+ Add an authentic screenshot of the locations or contact section:
 ![Salon 85 Park Street and AJC Bose Road salon locations](images/salon-85-locations.webp)
--->
+
 
 ### Appointment and service enquiry
 
-<!-- Add a client-approved screenshot of Book Now or contact actions, without any personal information:
+ Add a client-approved screenshot of Book Now or contact actions, without any personal information:
 ![Salon 85 service booking or enquiry interface](images/salon-85-booking.webp)
--->
+
 
 ### Mobile site experience
 
-<!-- Add a real mobile browser screenshot:
+ Add a real mobile browser screenshot:
 ![Salon 85 responsive mobile website](images/salon-85-mobile.webp)
--->
+
 
 See [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for file-naming guidance and the distinction between original live-site captures, agency working files and illustrative artwork.
 
