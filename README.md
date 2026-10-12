@@ -1,11 +1,20 @@
-
 # Salon 85 website: a clearer digital experience for premium hair, beauty and grooming services
 
 **Salon 85 is a premium unisex beauty salon in Kolkata, India. Its [website](https://salon85.co.in/) is featured in the [Tech Conversion](https://techconversion.tech/) portfolio as a B2C salon project. Tech Conversion's documented engagement covered custom WordPress website design and development. The public website gives visitors separate journeys for women's and men's services, makeup, hair extensions and salon locations, with service-level information and direct booking or contact actions.**
 
-Add an authentic client-approved Salon 85 homepage screenshot and then remove the comment markers:
-![Salon 85 website homepage showing hair, beauty and grooming services](images/salon-85-homepage.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/salon85-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/salon85-website-mockup.webp" alt="Salon 85 website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://salon85.co.in/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/before-after"><strong>Before &amp; after gallery</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -18,6 +27,7 @@ Add an authentic client-approved Salon 85 homepage screenshot and then remove th
 | **Documented engagement** | Custom WordPress website design and development |
 | **Tech Conversion portfolio** | [View Portfolio](https://techconversion.tech/portfolio) |
 | **Primary audiences** | Women, men, families and customers seeking occasion-specific beauty treatments |
+| **GitHub repository** | [TechConversionOfficial/Salon85-website](https://github.com/TechConversionOfficial/Salon85-website) |
 | **Website maintenance attribution** | Current live-site footer credits Click72 for management and maintenance; this is distinct from Tech Conversion's documented development engagement |
 
 ## About the business
@@ -32,69 +42,89 @@ The site also presents information about workshops and a separate Kolkata Salon 
 
 A full-service unisex salon has to communicate many different services to people with different expectations. Someone researching a women's haircut needs to understand styles, options and indicative prices. A client planning bridal makeup needs a more considered consultation. A visitor looking for men's grooming wants to reach the relevant service quickly. Customers also need to know **which branch they are contacting** before booking.
 
-A useful salon website must therefore go beyond a general beauty gallery: it should structure the service range, present trustworthy information, make contact details prominent and provide a direct way to request an appointment. It must also perform well on mobile, where local customers commonly compare salons and contact them.
+A useful salon website therefore needs to go beyond a general beauty gallery: it should structure the service range, present trustworthy information, make branch and contact details prominent and provide a direct way to request an appointment. It also needs to work well on mobile, where local customers often compare salons and contact them.
 
-These are the communication needs addressed by the project's positioning and visible website structure, **not a documented audit of an older Salon 85 website**.
+The supplied Tech Conversion media now supports a visual comparison between an earlier and redesigned Salon 85 homepage presentation. That comparison documents interface and content-structure changes, not independently measured appointment or business results.
 
 ## How the website presents the salon experience
 
-The following observations describe the **currently visible public website** and the work category documented in Tech Conversion's records. They are not a reconstruction of every implementation task, nor a claim that the agency currently manages the site.
+The following observations describe the currently visible public website and the work category documented in Tech Conversion's records. They are not a reconstruction of every implementation task, nor a claim that the agency currently manages the site.
 
 1. **Separate women's and men's journeys.** The website navigation offers distinct women's and men's service groups, allowing visitors to focus on relevant grooming and beauty categories without searching through one long mixed catalogue.
 2. **Give individual services their own details.** The [women's hair page](https://salon85.co.in/hairs-women/) lists cuts, colour, hair treatments and other services with displayed prices or starting rates. The [men's hair page](https://salon85.co.in/hairs-men/) provides similarly detailed grooming choices.
 3. **Present specialised appointments clearly.** Standalone pages for [makeup](https://salon85.co.in/makeup/), [hair extensions](https://salon85.co.in/hair-extensions/) and hair-patch services create routes for visitors whose needs differ from an everyday haircut.
 4. **Keep location information practical.** The homepage and [AJC Bose Road page](https://salon85.co.in/ajc-bose-road/) show branch locations and contact details, reducing the risk of enquiries going to the wrong location.
 5. **Make the next step visible.** Service sections include **Book Now** actions, while the [contact page](https://salon85.co.in/contact/) offers telephone, WhatsApp and other ways to enquire. The presence of these links is observable; booking-system completion has not been independently tested.
-6. **Communicate the salon's positioning.** Business history, stylist expertise, hygiene statements and product-brand displays help visitors assess the salon before deciding to book. Ratings and experience figures are client-published and should not be treated as independently audited in this portfolio.
-7. **Support broader discovery.** The site includes [workshops](https://salon85.co.in/workshops/) and editorial content alongside service pages, giving interested visitors additional ways to explore the business.
-8. **Use a manageable website foundation.** A saved Tech Conversion invoice specifically documents custom WordPress website design and development. Plugin choices, hosting, analytics configuration and later edits have not been independently verified.
+6. **Communicate the salon's positioning.** Business history, stylist expertise, hygiene statements and product-brand displays help visitors assess the salon before deciding to book. Ratings and experience figures are client-published and should not be treated as independently audited.
+7. **Support broader discovery.** The site includes [workshops](https://salon85.co.in/workshops/) and editorial content alongside service pages.
+8. **Use a manageable website foundation.** Project records document custom WordPress website design and development. Plugin choices, hosting, analytics configuration and later edits have not been independently verified.
 
-## Project images and visual direction
+## Website and project images
 
-**Genuine client-specific website screenshots were not located in the reviewed Tech Conversion image library.** This README includes seven image insertion points instead of using unrelated salon stock photographs, fabricated mockups or AI-generated screenshots. Comments are intentionally hidden on GitHub until real source images are added.
+### Official website mockup
 
-### Homepage and salon brand presentation
+The following Tech Conversion portfolio mockup presents Salon 85 as a premium, responsive salon and grooming website project.
 
- Replace this comment with the actual saved homepage capture:
-![Salon 85 premium salon homepage and primary navigation](images/salon-85-homepage.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/salon85-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/salon85-website-mockup.webp" alt="Salon 85 responsive premium salon website mockup" width="100%" />
+  </a>
+</p>
 
+*Click the image to open the full-resolution mockup.*
 
-### Women's hair services and pricing
+### Website transformation overview
 
-Add a screenshot of the actual women's hair services page:
-![Salon 85 women's haircuts, colour and treatment services](images/salon-85-womens-hair-services.webp)
+The following Tech Conversion comparison presents the earlier and redesigned Salon 85 website side by side.
 
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/699d4fe6-4743-4009-bd28-76ad9987482d.webp">
+    <img src="https://techconversion.tech/api/media/before-after/699d4fe6-4743-4009-bd28-76ad9987482d.webp" alt="Salon 85 website redesign before and after comparison" width="100%" />
+  </a>
+</p>
 
-### Men's hair and grooming services
+*The comparison graphic provides a visual overview. The full-page screenshots below show both versions in more detail.*
 
-Add a screenshot of the actual men's grooming services page:
-![Salon 85 men's haircuts and grooming service categories](images/salon-85-mens-grooming.webp)
+## Full-length BEFORE and AFTER comparison
 
-### Makeup and bridal presentation
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="center">BEFORE — Original Website</th>
+      <th width="50%" align="center">AFTER — Redesigned Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/salon85-old-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/salon85-old-website-home-page.webp" alt="Salon 85 original website full-page screenshot before redesign" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/salon85-new-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/salon85-new-website-home-page.webp" alt="Salon 85 redesigned website full-page screenshot after redesign" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
- Add an authentic screenshot of the makeup page:
-![Salon 85 makeup and bridal beauty service presentation](images/salon-85-makeup.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/salon85-old-website-home-page.webp"><strong>View full-size BEFORE screenshot</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/salon85-new-website-home-page.webp"><strong>View full-size AFTER screenshot</strong></a>
+</p>
 
+### Image provenance
 
-### Branch locations and contact journey
+The website mockup, before-and-after presentation and full-length website screenshots above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's placeholder local `images/...` references and the `IMAGE-SOURCES.md` dependency.
 
- Add an authentic screenshot of the locations or contact section:
-![Salon 85 Park Street and AJC Bose Road salon locations](images/salon-85-locations.webp)
+These visuals document the website presentation, but they are **not evidence of independently measured improvements in booked appointments, enquiry volume, local search rankings, organic traffic, mobile conversion rate, engagement, page-speed performance or revenue**.
 
+Prices, promotions, stylist claims, customer ratings, hygiene statements, testimonials and other visible business claims should be checked against current Salon 85 information before being presented as audited facts.
 
-### Appointment and service enquiry
-
- Add a client-approved screenshot of Book Now or contact actions, without any personal information:
-![Salon 85 service booking or enquiry interface](images/salon-85-booking.webp)
-
-
-### Mobile site experience
-
- Add a real mobile browser screenshot:
-![Salon 85 responsive mobile website](images/salon-85-mobile.webp)
-
-
-See [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for file-naming guidance and the distinction between original live-site captures, agency working files and illustrative artwork.
+Because the images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
 
 ## Key visitor journeys
 
@@ -125,13 +155,15 @@ These are **appropriate evaluation references**, not claims that the website has
 
 ## Before and after
 
-A dated and authenticated pair of **earlier and current production screenshots** was not found in the available Salon 85 project files. Consequently, this repository does not claim a proven visual transformation or measured before-and-after performance improvement.
+The supplied Tech Conversion assets include a dedicated before-and-after presentation plus full-length screenshots of the earlier and redesigned Salon 85 homepages. They support a clear **visual before-and-after presentation of the website project**.
 
-When dated screenshots are supplied, a comparison can document changes to navigation, service discovery, branch information, appointment CTAs and mobile layouts.
+The comparison can document changes in visual hierarchy, service discovery, branch visibility, appointment calls to action and overall presentation. These are design observations rather than measured business outcomes.
+
+The screenshots do **not** independently establish exact deployment dates, A/B testing, appointment growth, enquiry uplift, stronger local rankings, conversion improvements or revenue gains.
 
 ## Results
 
-**Supported:** Salon 85 appears in Tech Conversion's portfolio as a B2C salon website, and a saved project invoice establishes a custom WordPress website design and development engagement. The currently accessible site has dedicated women's and men's services, specialised treatments, branch information and appointment enquiry actions.
+**Supported:** Salon 85 appears in Tech Conversion's portfolio as a B2C salon website, and project records establish a custom WordPress website design and development engagement. The currently accessible site has dedicated women's and men's services, specialised treatments, branch information and appointment enquiry actions.
 
 **Not independently measured:** changes in booked appointments, enquiry volume, local search rankings, organic traffic, mobile conversion rate, engagement or page-speed performance. Tech Conversion's portfolio describes qualitative improvements in lead enquiries, engagement and usability, but no measurement period or underlying analytics was available to validate those outcomes.
 
@@ -142,8 +174,16 @@ When dated screenshots are supplied, a comparison can document changes to naviga
 [Tech Conversion](https://techconversion.tech/) (Tech Conversion Persuasive Private Limited) is a website development and digital marketing agency based in **Chennai, India**. Its work spans service-business websites, ecommerce, digital visibility and conversion-focused online experiences.
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
-- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies/)
+- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) · +91 91507 86547
 
-This repository is a **public portfolio case-study record**, not a copy of the live website, production code, private invoices, appointment records or customer information. Salon 85's logos, photography and other brand intellectual property remain with the relevant rights holders.
+## Repository scope and image credits
 
+This repository is a **public portfolio case-study record**, not a copy of the live website, production code, private invoices, appointment records or customer information.
+
+The website mockup, transformation artwork and full-page screenshots are sourced from Tech Conversion's public project media. Salon 85's logos, photography and other brand intellectual property remain with the relevant rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
